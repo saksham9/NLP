@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182.445" height="49.507" viewBox="0 0 182.445 49.507">
+  <g id="Group_23" data-name="Group 23" transform="translate(-120.114 -403)">
+    <path id="Path_1" data-name="Path 1" d="M17.26,5.648a9.682,9.682,0,0,1,17.6,0L42.917,23.02c.059.128.115.257.238.563,2.513,6.139-4.489,19.685-14.872,20.71L9.693,42.667a9.682,9.682,0,0,1-8.8-13.716Z" transform="matrix(0.996, -0.087, 0.087, 0.996, 120.114, 407.731)" fill="#01afef" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Path_2" data-name="Path 2" d="M17.26,38.645a9.682,9.682,0,0,0,17.6,0l8.054-17.372c.059-.128.115-.257.238-.563C45.668,14.571,38.666,1.025,28.282,0L9.693,1.626a9.682,9.682,0,0,0-8.8,13.716Z" transform="matrix(-0.996, -0.087, 0.087, -0.996, 189.635, 451.856)" fill="#8dc640" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(216.559 403)">
+      <text id="Mitra" transform="translate(0 34)" fill="#14458b" font-size="33" font-family="EncodeSans-Bold, Encode Sans" font-weight="700"><tspan x="0" y="0">Mitra</tspan></text>
+      <text id="Geeky_by_Nature" data-name="Geeky by Nature" transform="translate(3.94 45.199)" fill="#00aeee" font-size="9" font-family="EncodeSans-Light, Encode Sans" font-weight="300" letter-spacing="0.078em"><tspan x="0" y="0">Geeky by Nature</tspan></text>
+    </g>
+    <line id="Line_1" data-name="Line 1" y2="48.119" transform="translate(203.107 404.388)" fill="none" stroke="#d1d1d1" stroke-width="1"/>
+  </g>
+</svg>
